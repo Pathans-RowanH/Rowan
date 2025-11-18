@@ -1,0 +1,49 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Documents</title>
+  <style>
+    body{
+      margin:0;
+      background:#050505;
+      color:#d0d0d0;
+      font-family:Inter,system-ui,Segoe UI,Roboto,Arial,sans-serif;
+      min-height:100vh;
+      padding:24px;
+    }h1{
+  margin:0;
+  font-size:22px;
+  color:#ff3737;
+  letter-spacing:0.5px;
+}
+
+.content{
+  margin-top:40px;
+  max-width:680px;
+  line-height:1.6;
+  color:#b4b4b4;
+  font-size:15px;
+  opacity:0.85;
+}
+
+.glitch-line{
+  font-family:monospace;
+  font-size:13px;
+  color:#5a5a5a;
+  margin-top:24px;
+  user-select:none;
+}
+
+  </style>
+</head>
+<body>
+  <h1>Documents</h1>  <div class="content">
+    <p>Unauthorized access detected. File integrity mismatch. Attempting to reconstruct fragments...</p>
+    <p>Note: Some documents may not behave as expected. If visual drift occurs, do not refresh. It only makes it worse.</p><p class="glitch-line">[ REBUILDING INDEX 03/17 ] ███▒▒▒▒▒</p>
+
+  </div>
+</body>
+</html>
